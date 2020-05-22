@@ -19,7 +19,7 @@ inquirer
     {
       type: "input",
       message: "What is the URL to your project?",
-      name: "URL",
+      name: "url",
     },
     {
       type: "input",
@@ -40,17 +40,17 @@ inquirer
     {
       type: "input",
       message: "What command should be run to install dependencies?",
-      name: "commandInstall",
+      name: "install",
     },
     {
       type: "input",
       message: "What command should be run to run tests?",
-      name: "commandTests",
+      name: "tests",
     },
     {
       type: "input",
       message: "What does the user need to know about using the repo?",
-      name: "userKnowledge",
+      name: "usage",
     },
     {
       type: "input",
@@ -67,7 +67,3 @@ inquirer
       console.log("success!");
     });
   });
-
-// var apikey = process.env.apiKey;
-// var password = process.env.password;
-// var queryURL = "https://api.openweathermap.org" + apikey;

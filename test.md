@@ -1,73 +1,53 @@
-# fdj
-  
-  <These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here>
+# Cool APp
 
-    ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-    ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-    ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-    ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-    ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+    ## Description  
+    This is the coolest app that ever was.
 
-    fdj
+    ## Table of Contents
 
-    ## Prerequisites
+    * [Installation](#installation)
 
-    Before you begin, ensure you have met the following requirements:
+    * [Usage](#usage)
 
-    <!--- These are just example requirements. Add, duplicate or remove as required --->
+    * [License](#license)
 
-    - You have installed the latest version of '<coding_language/dependency/requirement_1>'
-    - You have a '<Windows/Linux/Mac>' machine. State which OS is supported/which is not.
-    - You have read '<guide/link/documentation_related_to_project>'.
+    * [Contributing](#contributing)
 
-    ## Installing fdj
+    * [Tests](#tests)
 
-    To install fdj, follow these steps:
-    jfdkl
+    * [Questions](#questions)
+    
 
+    ## Installation
 
-    ## Using <project_name>
-
-    To use <project_name>, follow these steps:
+    To install necessary dependencies, run the following command:
 
     ```
-    <usage_example>
+    npm i
     ```
 
-    Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+    ## Usage
 
-    ## Contributing to <project_name>
+    They have to very very careful,
 
-    <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
+    ##License
+    
+    MIT
 
-    To contribute to <project_name>, follow these steps:
+    ## Contributing
 
-    1. Fork this repository.
-    2. Create a branch: 'git checkout -b <branch_name>'.
-    3. Make your changes and commit them: 'git commit -m '<commit_message>''
-    4. Push to the original branch: 'git push origin <project_name>/<location>'
-    5. Create the pull request.
+    Lots of things that have not been known to the human race yet.
 
-    Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+    ## Tests
 
-    ## Contributors
+    To run tests, run the following command:
 
-    Thanks to the following people who have contributed to this project:
+    ```
+    npm test
+    ```
 
-    - [@scottydocs](https://github.com/scottydocs) 📖
-    - [@cainwatson](https://github.com/cainwatson) 🐛
-    - [@calchuchesta](https://github.com/calchuchesta) 🐛
+    ## Questions
 
-    You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+    If you have any questions about the repo, open and issue or contact Ann Karpinski directly at annkarpinski@gmail.com.
 
-    ## Contact
-
-    If you want to contact me you can reach me at <your_email@address.com>.
-
-    ## License
-
-    <!--- If you're not sure which open license to use see https://choosealicense.com/--->
-
-    This project uses the following license: [<license_name>](link).
-
-  
+    
