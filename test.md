@@ -1,7 +1,6 @@
-function generateMarkdown(data) {
-  return `# ${data.projectName}
+# fdj
   
-  \<These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here\>
+  <These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here>
 
     ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
     ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
@@ -9,7 +8,7 @@ function generateMarkdown(data) {
     ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
     ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 
-    ${data.description}
+    fdj
 
     ## Prerequisites
 
@@ -21,19 +20,19 @@ function generateMarkdown(data) {
     - You have a '<Windows/Linux/Mac>' machine. State which OS is supported/which is not.
     - You have read '<guide/link/documentation_related_to_project>'.
 
-    ## Installing ${data.projectName}
+    ## Installing fdj
 
-    To install ${data.projectName}, follow these steps:
-    ${data.commandInstall}
+    To install fdj, follow these steps:
+    jfdkl
 
 
     ## Using <project_name>
 
     To use <project_name>, follow these steps:
 
-    \`\`\`
+    ```
     <usage_example>
-    \`\`\`
+    ```
 
     Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
@@ -71,7 +70,4 @@ function generateMarkdown(data) {
 
     This project uses the following license: [<license_name>](link).
 
-  `;
-}
-
-module.exports = generateMarkdown;
+  
