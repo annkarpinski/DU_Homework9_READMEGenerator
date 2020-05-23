@@ -1,57 +1,69 @@
 function generateMarkdown(data) {
   return `# ${data.projectName}
 
-    ## Description  
-    ${data.description}. Check it out at ${data.url}
+## Description  
 
-    ## Table of Contents
+${data.description}. Check it out at ${data.url}
 
-    * [Installation](#installation)
+## Table of Contents
 
-    * [Usage](#usage)
+* [Installation](#installation)
 
-    * [License](#license)
+* [Usage](#usage)
 
-    * [Contributing](#contributing)
+* [License](#license)
 
-    * [Tests](#tests)
+* [Contributing](#contributing)
 
-    * [Questions](#questions)
+* [Tests](#tests)
+
+* [Questions](#questions)
     
 
-    ## Installation
+## Installation
 
-    To install necessary dependencies, run the following command:
+To install necessary dependencies, run the following command:
 
-    \`\`\`
-    ${data.install}
-    \`\`\`
+\`\`\`
+${data.install}
+\`\`\`
 
-    ## Usage
+## Usage
 
-    ${data.usage}
+Be aware of the following when using this repo:
+${data.usage}
 
-    ##License
+## License
     
-    ${data.license}
+${data.license}
 
-    ## Contributing
+ ## Contributing
 
-    ${data.contribute}
+ To contribute to ${data.projectName}, take note of: ${data.contribute} 
+ 
+ and follow these steps:
 
-    ## Tests
+ 1. Fork this repository.
+ 2. Create a branch: \`git checkout -b <branch_name>\`.
+ 3. Make your changes and commit them: \`git commit -m \'<commit_message>\'\`
+ 4. Push to the original branch: \`git push origin <project_name>/<location>\`
+ 5. Create the pull request.
 
-    To run tests, run the following command:
+## Tests
 
-    \`\`\`
-    ${data.tests}
-    \`\`\`
+To run tests, run the following command:
 
-    ## Questions
+\`\`\`
+${data.tests}
+\`\`\`
 
-    If you have any questions about the repo, open and issue or contact ${data.username} directly at ${data.email}.
+## Questions
 
-    `;
+If you have any questions about the repo, open an issue or contact **${data.username}** directly at <${data.email}>.
+
+![Ann Karpinski](https://avatars3.githubusercontent.com/u/4183382?s=460&v=4)
+
+`;
 }
 
 module.exports = generateMarkdown;
