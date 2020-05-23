@@ -1,8 +1,10 @@
-# Super Awesome Project
+# sdfh
+
+![](https://img.shields.io/badge/license-APACHE%202.0-blue.svg)
 
 ## Description  
 
-This is the greatest project ever known to the human race. Check it out at www.test.com
+sdfh. Check it out at dsfh
 
 ## Table of Contents
 
@@ -24,21 +26,21 @@ This is the greatest project ever known to the human race. Check it out at www.t
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+sdfh
 ```
 
 ## Usage
 
 Be aware of the following when using this repo:
-it gives you superpowers
+sdfh
 
 ## License
     
-MIT
+APACHE%202.0
 
  ## Contributing
 
- To contribute to Super Awesome Project, take note of: Beware lest you know its incredible powers 
+ To contribute to sdfh, take note of: sdfh 
  
  and follow these steps:
 
@@ -53,10 +55,10 @@ MIT
 To run tests, run the following command:
 
 ```
-npm test
+sdfh
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact **annkarpinski** directly at <annkarpinski@gmail.com>.
+If you have any questions about the repo, open an issue or contact **adfg** directly at <asdfh>.
 

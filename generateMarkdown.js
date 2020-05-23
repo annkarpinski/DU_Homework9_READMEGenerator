@@ -1,6 +1,8 @@
 function generateMarkdown(data) {
   return `# ${data.projectName}
 
+![](https://img.shields.io/badge/license-${data.license}-blue.svg)
+
 ## Description  
 
 ${data.description}. Check it out at ${data.url}
