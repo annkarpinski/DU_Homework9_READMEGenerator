@@ -35,7 +35,7 @@ inquirer
       type: "list",
       message: "What kind of license should your project have?",
       name: "license",
-      choices: ["MIT", "APACHE%202.0", "GPL%203.0", "BSD%203", "None"],
+      choices: ["MIT", "APACHE_2.0", "GPL_3.0", "BSD_3", "None"],
     },
     {
       type: "input",

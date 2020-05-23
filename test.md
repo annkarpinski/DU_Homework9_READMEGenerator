@@ -1,10 +1,10 @@
-# sdfh
+# Super Awesome Project
 
-![](https://img.shields.io/badge/license-APACHE%202.0-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)
 
 ## Description  
 
-sdfh. Check it out at dsfh
+This is the greatest project ever known to humankind. Check it out at www.superawesomeproject.com
 
 ## Table of Contents
 
@@ -26,21 +26,21 @@ sdfh. Check it out at dsfh
 To install necessary dependencies, run the following command:
 
 ```
-sdfh
+npm i
 ```
 
 ## Usage
 
 Be aware of the following when using this repo:
-sdfh
+It gives you shiny hair and radiant skin.
 
 ## License
     
-APACHE%202.0
+APACHE_2.0
 
  ## Contributing
 
- To contribute to sdfh, take note of: sdfh 
+ To contribute to Super Awesome Project, take note of: Contributing will give you the superpower of your choice. 
  
  and follow these steps:
 
@@ -55,10 +55,10 @@ APACHE%202.0
 To run tests, run the following command:
 
 ```
-sdfh
+npm test
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact **adfg** directly at <asdfh>.
+If you have any questions about the repo, open an issue or contact **annkarpinski** directly at <annkarpinski@gmail.com>.
 
