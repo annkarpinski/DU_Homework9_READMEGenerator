@@ -1,8 +1,8 @@
-# I Love Kangaroos
+# Super Awesome Project
 
 ## Description  
 
-Kangaroos are super awesome. Check it out at www.yay.com
+This is the greatest project ever known to the human race. Check it out at www.test.com
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ npm i
 ## Usage
 
 Be aware of the following when using this repo:
-it hops around a lot
+it gives you superpowers
 
 ## License
     
@@ -38,14 +38,14 @@ MIT
 
  ## Contributing
 
- To contribute to I Love Kangaroos, take note of: it gives you shiny hair 
+ To contribute to Super Awesome Project, take note of: Beware lest you know its incredible powers 
  
  and follow these steps:
 
  1. Fork this repository.
  2. Create a branch: `git checkout -b <branch_name>`.
  3. Make your changes and commit them: `git commit -m '<commit_message>'`
- 4. Push to the original branch: `git push origin I Love Kangaroos/<location>`
+ 4. Push to the original branch: `git push origin <project_name>/<location>`
  5. Create the pull request.
 
 ## Tests
@@ -58,7 +58,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact annkarpinski directly at <annkarpinski@gmail.com>.
-
-![Ann Karpinski](https://avatars3.githubusercontent.com/u/4183382?s=460&v=4)
+If you have any questions about the repo, open an issue or contact **annkarpinski** directly at <annkarpinski@gmail.com>.
 

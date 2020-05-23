@@ -61,8 +61,6 @@ ${data.tests}
 
 If you have any questions about the repo, open an issue or contact **${data.username}** directly at <${data.email}>.
 
-![Ann Karpinski](https://avatars3.githubusercontent.com/u/4183382?s=460&v=4)
-
 `;
 }
 
