@@ -62,7 +62,7 @@ inquirer
   .then(function (data) {
     console.log(data);
 
-    fs.writeFile("test.md", generateMarkdown(data), function (err) {
+    fs.writeFile("generatedREADME.md", generateMarkdown(data), function (err) {
       if (err) throw err;
       console.log("success!");
     });
