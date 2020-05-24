@@ -40,7 +40,7 @@ APACHE_2.0
 
  ## Contributing
 
- To contribute to Super Awesome Project, take note of: Contributing will give you superpowers. 
+ To contribute to Super Awesome Project, take note of: Contributing gives you superpowers. 
  
  and follow these steps:
 
